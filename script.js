@@ -14,13 +14,4 @@ $(document).ready(function(){
 		let finalpay = (( pay * percentage)/ 100);
 		$("#amount").text('$' + finalpay.toFixed(2));
 	});
-
-	// Using Keyup Event for function
-	// $("input").keyup(function(){
-	// 	let salary = $("#yearly-salary").val();
-	// 	let percent = $("#percent").val();
-
-	// 	let solution = (( salary * percent)/ 100);
-	// 	$("#amount").text('$' + solution.toFixed(2));
-	// });
 });
