@@ -64,7 +64,7 @@ $(document).ready(function () {
     if(value){
         console.log("Value", value);
         $("#tablebody tr").filter(function () {
-          const charater_name = $(this)[0];
+          const $charater_name = $(this)[0];
       
           if($charater_name.firstElementChild.textContent.toLowerCase().indexOf(value) > -1){
               console.log($charater_name.firstElementChild.textContent);
