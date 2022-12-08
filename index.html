@@ -2,14 +2,39 @@
 
 <head>
     <link href="css/style.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css" />
 </head>
 
 <body>
-    <h1 style="text-align:center ;">Aditya Patel | One Piece</h1>
-    
-        <button id="first">A - M (5)</button> 
-        <button id="last">N - Z (2)</button>
+
+    <main></main>
+    <h1 style="text-align:center ;">Aditya Patel | One Piece Characters</h1>
+
+        <div class="search">
+            <input type="text" id="search" placeholder="Search">
+        </div>
+        
+        <table id="Table">
+            <thead>
+                <tr>
+                    <th>Charater_Name</th>
+                    <th>Devil Fruit</th>
+                    <th>Gender</th>
+                    <th>Bounty</th>
+                    <th>Date</th>
+                    <th>Age</th>
+                </tr>
+            </thead>
+                <tbody id="tablebody">
+            </tbody>
+        </table>
+
+        <div class="buttons" style="align-items:center; margin:auto;" id="filter">
+            <button type="button" class="button" id="A-M">Filter A-M</button>
+            <button type="button" class="button" id="N-Z">Filter N-Z</button>
+        </div>
+
+    </main>
+
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
 </body>
