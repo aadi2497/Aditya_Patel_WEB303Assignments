@@ -41,7 +41,8 @@ $(document).ready(function () {
                <td>${value.Charater_Name}</td>  
                <td>${value.Devil_Fruit}</td>  
                <td>${value.Gender}</td>                
-               <td>${value.Bounty}</td>  
+               <td>${value.Bounty}</td>
+               <td>${value.Date}</td>  
                <td>${value.Age}</td> 
            </tr>`;
          rows += row_name;

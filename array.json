@@ -4,6 +4,7 @@
         "Devil_Fruit": "Gomu Gomu no Mi",
         "Gender": "Male",
         "Bounty": "3,000,000,000",
+        "Date": "2001-06-01",
         "Age": "19"
     },
     {
@@ -11,6 +12,7 @@
         "Devil_Fruit": "Yomi Yomi no Mi",
         "Gender": "Male",
         "Bounty": "383,000,000",
+        "Date": "2003-09-20",
         "Age": "90"
     }, 
     {
@@ -18,6 +20,7 @@
         "Devil_Fruit": "None",
         "Gender": "Robert",
         "Bounty": "394,000,000",
+        "Date": "2013-01-25",
         "Age": "36"
     }, 
     {
@@ -25,6 +28,7 @@
         "Devil_Fruit": "None",
         "Gender": "Fishman",
         "Bounty": "1,100,000,000",
+        "Date": "1998-01-20",
         "Age": "46"
     },
     {
@@ -32,6 +36,7 @@
         "Devil_Fruit": "Nonw",
         "Gender": "Feamle",
         "Bounty": "366,000,000",
+        "Date": "2001-06-21",
         "Age": "21"
     },
     {
@@ -39,6 +44,7 @@
         "Devil_Fruit": "Hana Hana no Mi",
         "Gender": "Feamle",
         "Bounty": "930,000,000",
+        "Date": "2001-10-25",
         "Age": "30"
     }, 
     {
@@ -46,6 +52,7 @@
         "Devil_Fruit": "None",
         "Gender": "Male",
         "Bounty": "1,111,000,000",
+        "Date": "1999-05-05",
         "Age": "21"
     }, 
     {
@@ -53,6 +60,7 @@
         "Devil_Fruit": "None",
         "Gender": "Male",
         "Bounty": "1,032,000,000",
+        "Date": "2001-12-05",
         "Age": "21"
     }
     
