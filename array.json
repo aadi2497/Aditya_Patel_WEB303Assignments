@@ -1,0 +1,59 @@
+[
+    {
+        "Charater_Name": "Luffy Monkey D",
+        "Devil_Fruit": "Gomu Gomu no Mi",
+        "Gender": "Male",
+        "Bounty": "3,000,000,000",
+        "Age": "19"
+    },
+    {
+        "Charater_Name": "Brook",
+        "Devil_Fruit": "Yomi Yomi no Mi",
+        "Gender": "Male",
+        "Bounty": "383,000,000",
+        "Age": "90"
+    }, 
+    {
+        "Charater_Name": "Franky",
+        "Devil_Fruit": "None",
+        "Gender": "Robert",
+        "Bounty": "394,000,000",
+        "Age": "36"
+    }, 
+    {
+        "Charater_Name": "Jinbe",
+        "Devil_Fruit": "None",
+        "Gender": "Fishman",
+        "Bounty": "1,100,000,000",
+        "Age": "46"
+    },
+    {
+        "Charater_Name": "Nami",
+        "Devil_Fruit": "Nonw",
+        "Gender": "Feamle",
+        "Bounty": "366,000,000",
+        "Age": "21"
+    },
+    {
+        "Charater_Name": "Robin Nico",
+        "Devil_Fruit": "Hana Hana no Mi",
+        "Gender": "Feamle",
+        "Bounty": "930,000,000",
+        "Age": "30"
+    }, 
+    {
+        "Charater_Name": "Zoro Roronoa",
+        "Devil_Fruit": "None",
+        "Gender": "Male",
+        "Bounty": "1,111,000,000",
+        "Age": "21"
+    }, 
+    {
+        "Charater_Name": "Sanji",
+        "Devil_Fruit": "None",
+        "Gender": "Male",
+        "Bounty": "1,032,000,000",
+        "Age": "21"
+    }
+    
+]
