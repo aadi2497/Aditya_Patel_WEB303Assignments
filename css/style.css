@@ -101,6 +101,9 @@ th {
 
 }
 
+th {
+    cursor: pointer;
+  }
 
 .buttons {
     display: flex;
